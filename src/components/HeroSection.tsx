@@ -3,7 +3,7 @@ import { ArrowRight, BriefcaseBusiness, Code2, Earth, UsersRound } from 'lucide-
 import type { MouseEvent } from 'react'
 
 const floatingCards = [
-  { label: 'Technology', Icon: Code2, className: '-left-6 top-16 sm:-left-12' },
+  { label: 'Information Technology', Icon: Code2, className: '-left-6 top-16 sm:-left-12' },
   { label: 'Leadership', Icon: UsersRound, className: '-right-5 top-36 sm:-right-12' },
   { label: 'Business', Icon: BriefcaseBusiness, className: '-left-3 bottom-16 sm:-left-10' },
   { label: 'International', Icon: Earth, className: '-right-4 bottom-8 sm:-right-10' },
