@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#F3ECE5"/>
+  <circle cx="1020" cy="120" r="230" fill="#4D637B" opacity=".13"/>
+  <circle cx="150" cy="620" r="260" fill="#4D637B" opacity=".08"/>
+  <rect x="90" y="90" width="1020" height="520" rx="42" fill="#FFFDFC" stroke="#E3D7CF"/>
+  <rect x="140" y="140" width="120" height="14" rx="7" fill="#4D637B" opacity=".8"/>
+  <rect x="140" y="180" width="430" height="26" rx="13" fill="#211D1D" opacity=".9"/>
+  <rect x="140" y="225" width="310" height="14" rx="7" fill="#756D69" opacity=".35"/>
+  <g transform="translate(140 320)">
+    <rect width="250" height="170" rx="24" fill="#F7F3EE"/>
+    <rect x="285" width="250" height="170" rx="24" fill="#F7F3EE"/>
+    <rect x="570" width="250" height="170" rx="24" fill="#F7F3EE"/>
+    <path d="M35 125 C85 70, 130 110, 205 45" fill="none" stroke="#4D637B" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="70" cy="70" r="28" fill="#4D637B" opacity=".25"/>
+    <rect x="330" y="55" width="160" height="18" rx="9" fill="#4D637B" opacity=".35"/>
+    <rect x="330" y="92" width="110" height="12" rx="6" fill="#756D69" opacity=".3"/>
+    <rect x="615" y="35" width="32" height="95" rx="9" fill="#4D637B" opacity=".3"/>
+    <rect x="665" y="65" width="32" height="65" rx="9" fill="#4D637B" opacity=".5"/>
+    <rect x="715" y="45" width="32" height="85" rx="9" fill="#4D637B" opacity=".7"/>
+  </g>
+  <text x="140" y="270" font-family="Arial, sans-serif" font-size="18" fill="#756D69">Automated Candidate Screening</text>
+  <text x="140" y="545" font-family="Arial, sans-serif" font-size="16" fill="#756D69">A clearer and more consistent workflow</text>
+</svg>
